@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 ### Hi there 👋, I'm Artsiom
 
 - 💪 I’m currently learning C#, .NET
@@ -9,3 +5,8 @@
 - 🤹🏽  I like to write code, sport
 
 ### Connect with me:
+[<img align="left" alt="akirpaniou | LinkedIn" width="22px" src="https://cdnjsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: artsiom-kirpaniou-b279961a9/
