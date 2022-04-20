@@ -1,11 +1,9 @@
-### Hi there 👋, I'm Artsiom
-
+Hi 👋 I'm Artsiom
+========================
 - 💪 I’m currently learning C#, .NET
 - ⚡ I am constantly learning new things
 - 🤹🏽  I like to write code, sport
-
-Hi 👋 My name is Artsiom
-========================* ✉️  You can contact me at [kirpaniou@gmail.com](mailto:kirpaniou@gmail.com)
+* ✉️  You can contact me at [kirpaniou@gmail.com](mailto:kirpaniou@gmail.com)
 
 ### Skills
 
