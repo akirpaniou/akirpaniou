@@ -1,7 +1,7 @@
 Hi 👋 I'm Artsiom
 ========================
-- 💪 I’m currently learning C#, .NET
-- ⚡ I am constantly learning new things
+- 💪  I'm currently learning DevOps tools
+- ⚡ I am constantly learning new technologies and improving my system administration skills
 - 🤹🏽  I like to write code, sport
 * ✉️  You can contact me at [kirpaniou@gmail.com](mailto:kirpaniou@gmail.com)
 
